@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cirqueDoSoleil>
+  <espectaculos>
+    <espectaculo id="1">
+      <nombre>Luzia</nombre>
+      <tipo>Acrobatico</tipo>
+    </espectaculo>
+    <espectaculo id="2">
+      <nombre>O</nombre>
+      <tipo>Acuatico</tipo>
+    </espectaculo>
+  </espectaculos>
+
+  <funciones>
+    <funcion id="1" idEspectaculo="1">
+      <ciudad>Ciudad de Mexico</ciudad>
+      <fechaHora>2026-08-20T20:00:00</fechaHora>
+    </funcion>
+    <funcion id="2" idEspectaculo="2">
+      <ciudad>Guadalajara</ciudad>
+      <fechaHora>2026-08-25T19:30:00</fechaHora>
+    </funcion>
+  </funciones>
+
+  <artistas>
+    <artista id="1">
+      <nombre>Ana Torres</nombre>
+      <especialidad>Trapecio</especialidad>
+    </artista>
+    <artista id="2">
+      <nombre>Luis Moreno</nombre>
+      <especialidad>Malabarismo</especialidad>
+    </artista>
+  </artistas>
+
+  <elenco>
+    <participacion id="1" idFuncion="1" idArtista="1">
+      <rolAsignado>Trapecista principal</rolAsignado>
+    </participacion>
+    <participacion id="2" idFuncion="1" idArtista="2">
+      <rolAsignado>Malabarista</rolAsignado>
+    </participacion>
+  </elenco>
+
+  <boletos>
+    <boleto id="1" idFuncion="1">
+      <precio>1500.00</precio>
+      <numeroAsiento>A12</numeroAsiento>
+    </boleto>
+    <boleto id="2" idFuncion="2">
+      <precio>1800.00</precio>
+      <numeroAsiento>B08</numeroAsiento>
+    </boleto>
+  </boletos>
+</cirqueDoSoleil>
