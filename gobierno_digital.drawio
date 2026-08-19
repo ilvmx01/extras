@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="5FDKnq7DcPwuYzKD49sG">
-    <mxGraphModel dx="1944" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1536" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,6 +315,9 @@
             <mxPoint x="550" y="920" as="sourcePoint" />
             <mxPoint x="550" y="990" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FpEa4fLi8Bf4_WCR2BlF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="ISRAEL LARA VEGA&lt;div&gt;ES202116643&lt;br&gt;&lt;div&gt;MODELADO DE NEGOCIOS&lt;/div&gt;&lt;div&gt;Evidencia de Apredizaje&lt;/div&gt;&lt;div&gt;U4&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="80" y="375" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
