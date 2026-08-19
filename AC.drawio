@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="zqDrwd7G60QGCSl0itnI">
-    <mxGraphModel dx="1348" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,6 +410,12 @@
         </mxCell>
         <mxCell id="Lve0_i-ZtIOshIXWHCQK-59" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" value="" vertex="1">
           <mxGeometry height="690" width="5" x="380.5" y="1016.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lve0_i-ZtIOshIXWHCQK-60" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" value="T = Tiempo de espera" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Lve0_i-ZtIOshIXWHCQK-61" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" value="ISRAEL LARA VEGA&lt;div&gt;MODELADO DE NEGOCIOS&lt;/div&gt;&lt;div&gt;ACTIVIDAD COMPLEMENTARIA U4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="257" x="445" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
